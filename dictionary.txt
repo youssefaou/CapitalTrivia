@@ -1,0 +1,70 @@
+Argentina/Buenos Aires
+Morocco/Rabat
+France/Paris
+United States/Washington
+Spain/Madrid
+Russia/Moscow
+Germany/Berlin
+Portugal/Lisbon
+Cuba/Havana
+Venezuela/Caracas
+Italy/Rome
+Palestine/Jerusalem
+Syria/Damascus
+Lebanon/Beiyrut
+South Africa/Johannesburg
+England/London
+Mexico/New Mexico
+Panama/Panama City
+Sweden/Stockholm
+Albania/Tirana
+Armenia/Yerevan
+Austria/Vienna
+Belgium/Brussels
+Bosnia/Sarajevo
+Bulgaria/Sofia
+Croatia/Zagreb
+Cyprus/Nicosia
+Czech Republic/Prague
+Denmark/Copenhagen
+Estonia/Tallinn
+Finland/Helsinki
+Georgia/Tbilisi
+Greece/Athens
+Hungary/Budapest
+Iceland/Reykjavik
+Ireland/Dublin
+Latvia/Riga
+Liechtenstein/Vaduz
+Lithuania/Vilnius
+Luxembourg/Luxembourg
+Malta/Valletta
+Monaco/Monaco
+Montenegro/Podgorica
+Netherlands/Amsterdam
+Norway/Oslo
+Poland/Warsaw
+Romania/Bucharest
+Serbia/Belgrade
+Slovakia/Bratislava
+Slovenia/Ljubljana
+Switzerland/Bern
+Turkey/Ankara
+Ukraine/Kiev
+Canada/Ottawa
+Costa Rica/San Jose
+El Salvador/San Salvador
+Haiti/Port au Prince
+Jamaica/Kingston
+Nicaragua/Managua
+Australia/Canberra
+New Zealand/Wellington
+Fiji/Suva
+Bolivia/La Paz
+Brazil/Brasilia
+Chile/Santiago
+Colombia/Bogota
+Ecuador/Quito
+Paraguay/Asuncion
+Peru/Lima
+Uruguay/Montevideo
