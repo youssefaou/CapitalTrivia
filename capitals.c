@@ -60,4 +60,5 @@ Item* getItems(FILE *file) // from the text file
 	}
 	
 	return rand_items;
+//hello 
 }
